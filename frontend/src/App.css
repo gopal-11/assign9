@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  padding: 40px;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.margin-left10 {
+  margin-left: 10px;
+}
+
+.page-container {
+  display: flex;
+  justify-content: start;
+  margin-top: 10px;
+}
